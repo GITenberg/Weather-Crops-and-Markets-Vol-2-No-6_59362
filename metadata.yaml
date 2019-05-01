@@ -1,5 +1,8 @@
 _repo: Weather-Crops-and-Markets-Vol-2-No-6_59362
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59362-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59362#Weather-Crops-and-Markets-Vol-2-No-6
 gutenberg_issued: '2019-04-25'
 gutenberg_type: Text
 identifiers:
